@@ -2,10 +2,14 @@
 파이썬 게시판 만들기
 
 ## 사용 스택
-**- OS** : Window, Linux(Ubuntu12) \n
-**- Language** : Python \n
-**- Framework** : Django, Bootstrap \n
-**- DB**: Mysql \n
+**- OS** : Window, Linux(Ubuntu12)
+
+**- Language** : Python
+
+**- Framework** : Django, Bootstrap
+
+**- DB**: Mysql
+
 **- Tool** : Visual Studio, Workbench(잠시) -> Heidisql, VirtualBox
 (AWS 사용 후 요금 문제로 종료)
 
