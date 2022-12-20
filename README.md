@@ -11,6 +11,7 @@
 **- DB**: Mysql
 
 **- Tool** : Visual Studio, Workbench(잠시) -> Heidisql, VirtualBox
+
 (AWS 사용 후 요금 문제로 종료)
 
 ## 기능
